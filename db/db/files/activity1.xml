@@ -1,0 +1,16 @@
+<chapter>
+	<title>Escritorio remoto con VNC</title>
+	<para>Lo primero que hicimos fue leer toda la documentación acerca de conexiones VNC tanto en Debian como en Windows. Por una parte, mi compañero de grupo
+hizo la parte de Windows mientras que por otro lado yo hice la parte que corresponde con el Debian.
+ </para>
+	<para>Conexión desde Windows a Linux</para>
+
+<mediaobject>
+			<imageobject>
+				<imagedata fileref="../img/logo-opensuse.png" format="PNG"/>
+            </imageobject>
+           
+        </mediaobject>
+	
+</chapter>
+	
