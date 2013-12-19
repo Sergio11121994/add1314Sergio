@@ -28,8 +28,9 @@ Administración de Sistemas Informáticos 2013-2014
 </info>
 
 
-<xi:include href="files/activity1.xml" />
-<xi:include href="files/activity2.xml" />
+<xi:include href="files/tema1/activity1.xml" />
+<xi:include href="files/tema1/activity2.xml" />
+<xi:include href="files/tema1/activity3.xml" />
 
 </book>
 
